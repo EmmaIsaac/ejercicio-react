@@ -1,14 +1,14 @@
 const Header = () => {
-    return(
+    return (
         <header>
-        <h1>Portal React</h1>
-        <nav>
-        <ul>
-            <li><a href="/#inicio">INICIO</a></li>
-            <li><a href="/#caracteristicas">CARACTERISTICAS</a></li>
-            <li><a href="/#contacto">CONTACTO</a></li>
-        </ul>
-        </nav>
+            <h1>Portal React</h1>
+            <nav>
+                <ul>
+                    <li><a href="/#inicio">El INICIO</a></li>
+                    <li><a href="/#caracteristicas">Las CARACTERISTICAS</a></li>
+                    <li><a href="/#contacto">El CONTACTO</a></li>
+                </ul>
+            </nav>
         </header>
     );
 };
