@@ -6,7 +6,7 @@ const Header = () => {
                 <ul>
                     <li><a href="/#inicio">INICIO</a></li>
                     <li><a href="/#caracteristicas">CARACTERISTICAS</a></li>
-                    <li><a href="/#contacto">CONTACTO</a></li>
+                    <li><a href="/#contacto">CONTACta2</a></li>
                 </ul>
             </nav>
         </header>
