@@ -1,7 +1,7 @@
 const Header = () => {
     return (
         <header>
-            <h1>Portal React Mac OS</h1>
+            <h1>Portal React Zorin</h1>
             <nav>
                 <ul>
                     <li><a href="/#inicio">INICIO</a></li>
